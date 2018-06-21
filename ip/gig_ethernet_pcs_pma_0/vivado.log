@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Wed Oct 25 10:31:07 2017
+# Process ID: 9696
+# Current directory: C:/Users/bbtech/Desktop/release_check_tsuyuki/SiTCPV11/KC705/sample_20171016_Kintex_EV_test/project_1/project_1.srcs/sources_1/ip/gig_ethernet_pcs_pma_0
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8320 C:\Users\bbtech\Desktop\release_check_tsuyuki\SiTCPV11\KC705\sample_20171016_Kintex_EV_test\project_1\project_1.srcs\sources_1\ip\gig_ethernet_pcs_pma_0\gig_ethernet_pcs_pma_0.dcp
+# Log file: C:/Users/bbtech/Desktop/release_check_tsuyuki/SiTCPV11/KC705/sample_20171016_Kintex_EV_test/project_1/project_1.srcs/sources_1/ip/gig_ethernet_pcs_pma_0/vivado.log
+# Journal file: C:/Users/bbtech/Desktop/release_check_tsuyuki/SiTCPV11/KC705/sample_20171016_Kintex_EV_test/project_1/project_1.srcs/sources_1/ip/gig_ethernet_pcs_pma_0\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_checkpoint {C:\Users\bbtech\Desktop\release_check_tsuyuki\SiTCPV11\KC705\sample_20171016_Kintex_EV_test\project_1\project_1.srcs\sources_1\ip\gig_ethernet_pcs_pma_0\gig_ethernet_pcs_pma_0.dcp}
+Command: open_checkpoint {C:\Users\bbtech\Desktop\release_check_tsuyuki\SiTCPV11\KC705\sample_20171016_Kintex_EV_test\project_1\project_1.srcs\sources_1\ip\gig_ethernet_pcs_pma_0\gig_ethernet_pcs_pma_0.dcp}
+
+Starting open_checkpoint Task
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.040 . Memory (MB): peak = 786.766 ; gain = 0.000
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.3/data/ip'.
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [Netlist 29-17] Analyzing 80 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2017.2.1
+INFO: [Common 17-344] 'open_checkpoint' was cancelled
+INFO: [Common 17-344] 'rdi::open_ppr_or_dcp' was cancelled
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Oct 25 10:31:39 2017...

@@ -1,0 +1,16 @@
+【If gig_ethernet_pcs_pma_0 can not be synthesized】
+
+After right clicking gig_ethernet_pcs_pma_0 on the Hierarchy tab of the Vivado Project manager [Source] view,
+execute [Reset Output Products] if it is not grayed out and resynthesize it.
+
+If [Reset Output Products] can not be executed (grayed out), please do the following procedure to generate IP.
+・ Select the toolbar [Window] - [IP Catalog].
+・ Select [Communication & Networking] - [Ethernet]-[1G/2.5G Ethernet PCS/PMA or SGMII].
+・ Select sgmii in [ETHERNET] on the [Board] tab, leave the others as Custom.
+・ Select 1G on the [Data Rate] tab.
+・ Confirm that it is set to SGMII on the [Standard] tab.
+・ Uncheck [MDIO Management Interface] on the [Core Functionality] tab.
+・ Leave the default on the [SGMII Capabilities] tab.
+・ Leave the default on the [SGMII Operation Mode] tab (unchecked).
+・ Select [Include Shared Logic in Core] on the [Shared Logic] tab.
+・ Click [OK].

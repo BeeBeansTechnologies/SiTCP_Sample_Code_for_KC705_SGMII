@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Wed Oct 25 10:31:07 2017
+# Process ID: 9696
+# Current directory: C:/Users/bbtech/Desktop/release_check_tsuyuki/SiTCPV11/KC705/sample_20171016_Kintex_EV_test/project_1/project_1.srcs/sources_1/ip/gig_ethernet_pcs_pma_0
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8320 C:\Users\bbtech\Desktop\release_check_tsuyuki\SiTCPV11\KC705\sample_20171016_Kintex_EV_test\project_1\project_1.srcs\sources_1\ip\gig_ethernet_pcs_pma_0\gig_ethernet_pcs_pma_0.dcp
+# Log file: C:/Users/bbtech/Desktop/release_check_tsuyuki/SiTCPV11/KC705/sample_20171016_Kintex_EV_test/project_1/project_1.srcs/sources_1/ip/gig_ethernet_pcs_pma_0/vivado.log
+# Journal file: C:/Users/bbtech/Desktop/release_check_tsuyuki/SiTCPV11/KC705/sample_20171016_Kintex_EV_test/project_1/project_1.srcs/sources_1/ip/gig_ethernet_pcs_pma_0\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_checkpoint {C:\Users\bbtech\Desktop\release_check_tsuyuki\SiTCPV11\KC705\sample_20171016_Kintex_EV_test\project_1\project_1.srcs\sources_1\ip\gig_ethernet_pcs_pma_0\gig_ethernet_pcs_pma_0.dcp}
