@@ -23,3 +23,20 @@ SiTCPの利用するAT93C46のインタフェースをKC705のEEPROM(M24C08)に�
 * その他の関連プロジェクトは、[こちら](https://github.com/BeeBeansTechnologies)を参照してください。
 
 ![SiTCP](sitcp.png)
+
+
+## 履歴
+
+#### 2022-06-07 Ver.1.0.1
+* 「kc705sitcp.v」
+    * ポート名を修正
+    * DIPスイッチ割り当てを変更
+    * 誤記修正
+* 「RBCP.v」
+    * 回路記述を変更
+* 「kc705sitcp.xdc」
+    * ポート名を修正
+
+#### 2018-11-12 Ver.1.0.0
+
+* 新規登録。
